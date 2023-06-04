@@ -50,21 +50,42 @@ int solution(int N) {
     char[] binaryNumber = changeToBinary(N);
     int highestCombo = 0;
     int zeroStreakCounter = 0;
-
+    int start = -1, end = -1;
     for(int i =0;i<binaryNumber.Length;i++)
     {
-        if(binaryNumber[i] != '1')
-            zeroStreakCounter += 1;
-        else
+        if(binaryNumber[i] == '1')
         {
-            if(highestCombo < zeroStreakCounter)
-                highestCombo = zeroStreakCounter;
-            zeroStreakCounter = 0;
+            start = i;
+            break;
         }
     }
+    for(int i =binaryNumber.Length-1;i>=0;i--)
+    {
+        if(binaryNumber[i] == '1' && i > start)
+        {
+            end = i;
+            break;
+        }
+    }
+    if(start == -1 || end == -1)
+        return 0;
+    else
+        for(int i =0;i<binaryNumber.Length;i++)
+        {
+            if(binaryNumber[i] != '1')
+                zeroStreakCounter += 1;
+            else
+            {
+                if(highestCombo < zeroStreakCounter)
+                    highestCombo = zeroStreakCounter;
+                zeroStreakCounter = 0;
+            }
+        }
     Console.WriteLine(" // highest streak = " + highestCombo);
     return highestCombo;
 }
 
-for(int i=100;i<105;i++)
-    solution(i);
+solution(15);
+solution(1041);
+solution(32);
+
