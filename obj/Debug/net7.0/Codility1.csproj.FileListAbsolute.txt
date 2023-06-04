@@ -1,0 +1,15 @@
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.csproj.AssemblyReference.cache
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.AssemblyInfoInputs.cache
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.AssemblyInfo.cs
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.csproj.CoreCompileInputs.cache
+D:\programowanie\KursMicrosoft\Codility1\bin\Debug\net7.0\Codility1.exe
+D:\programowanie\KursMicrosoft\Codility1\bin\Debug\net7.0\Codility1.deps.json
+D:\programowanie\KursMicrosoft\Codility1\bin\Debug\net7.0\Codility1.runtimeconfig.json
+D:\programowanie\KursMicrosoft\Codility1\bin\Debug\net7.0\Codility1.dll
+D:\programowanie\KursMicrosoft\Codility1\bin\Debug\net7.0\Codility1.pdb
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.dll
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\refint\Codility1.dll
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.pdb
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\Codility1.genruntimeconfig.cache
+D:\programowanie\KursMicrosoft\Codility1\obj\Debug\net7.0\ref\Codility1.dll
