@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programowanie\\KursMicrosoft\\Codility1\\Codility1.csproj": {}
+    "D:\\Codility1\\Codility1.csproj": {}
   },
   "projects": {
-    "D:\\programowanie\\KursMicrosoft\\Codility1\\Codility1.csproj": {
+    "D:\\Codility1\\Codility1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programowanie\\KursMicrosoft\\Codility1\\Codility1.csproj",
+        "projectUniqueName": "D:\\Codility1\\Codility1.csproj",
         "projectName": "Codility1",
-        "projectPath": "D:\\programowanie\\KursMicrosoft\\Codility1\\Codility1.csproj",
+        "projectPath": "D:\\Codility1\\Codility1.csproj",
         "packagesPath": "C:\\Users\\BartPC\\.nuget\\packages\\",
-        "outputPath": "D:\\programowanie\\KursMicrosoft\\Codility1\\obj\\",
+        "outputPath": "D:\\Codility1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BartPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
